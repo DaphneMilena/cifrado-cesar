@@ -18,7 +18,4 @@ Da el resultado mediante un alert
 
 
 
-
-
-
-https://www.lucidchart.com/invitations/accept/e2bb7d3e-bde4-4e54-8700-ac034e1fc14d
+![Diagrama de Flujo] (https://i.imgur.com/cZ1DB8b.jpg?raw=true)
