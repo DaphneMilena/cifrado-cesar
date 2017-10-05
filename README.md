@@ -18,4 +18,4 @@ Da el resultado mediante un alert ("El resultado es ...")
 
 
 
-Diagrama de Flujo: https://i.imgur.com/cZ1DB8b.jpg?raw=true
+![Diagrama de Flujo](https://i.imgur.com/cZ1DB8b.jpg?raw=true)
