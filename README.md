@@ -1,4 +1,4 @@
-#Pseudocódigo Cifrado Cesar
+Pseudocódigo Cifrado Cesar
 
 Crear función principal
 Preguntar al usuario si desea cifrar o descifrar (opción 1 o 2)
