@@ -1,3 +1,5 @@
+#Pseudocódigo Cifrado Cesar
+
 Crear función principal
 Preguntar al usuario si desea cifrar o descifrar (opción 1 o 2)
 La respuesta no puede ser un campo vacío
